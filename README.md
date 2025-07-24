@@ -1,4 +1,4 @@
-# PhotoVerse Gallery 📸
+<img width="1886" height="927" alt="image" src="https://github.com/user-attachments/assets/fdfe15a8-4814-4d91-910a-2e4c1c46d315" /># PhotoVerse Gallery 📸
 
 一个基于 Cloudflare Workers 的精美图片画廊，支持自定义加载数量和随机刷新功能。
 
@@ -47,7 +47,9 @@ const URL_SOURCES = [
 4. 将 `index.js` 的完整内容复制粘贴到编辑器中
 5. 点击 **Save and Deploy**
 6. 访问分配的 `*.workers.dev` 域名即可使用
-   ![Uploading image.png…]()
+   <img width="1886" height="927" alt="image" src="https://github.com/user-attachments/assets/a7c778c4-5323-4d38-af85-be34e991fe7c" />
+
+
 
 
 ## 🎯 使用说明
