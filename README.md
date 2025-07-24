@@ -1,4 +1,3 @@
-<img width="1886" height="927" alt="image" src="https://github.com/user-attachments/assets/fdfe15a8-4814-4d91-910a-2e4c1c46d315" />
 # PhotoVerse Gallery 📸
 
 一个基于 Cloudflare Workers 的精美图片画廊，支持自定义加载数量和随机刷新功能。
