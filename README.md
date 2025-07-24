@@ -47,6 +47,8 @@ const URL_SOURCES = [
 4. 将 `index.js` 的完整内容复制粘贴到编辑器中
 5. 点击 **Save and Deploy**
 6. 访问分配的 `*.workers.dev` 域名即可使用
+   ![Uploading image.png…]()
+
 
 ## 🎯 使用说明
 
