@@ -2,9 +2,9 @@
 // Fetches image URLs from GitHub and displays them in a gallery
 
 const URL_SOURCES = [
-    'https://raw.githubusercontent.com/fff122/PhotoVerse/refs/heads/main/1url.txt',
-    'https://raw.githubusercontent.com/fff122/PhotoVerse/refs/heads/main/2url.txt',
-    'https://raw.githubusercontent.com/fff122/PhotoVerse/refs/heads/main/3url.txt'
+    'https://raw.githubusercontent.com/wellbeenlee/PhotoVerse/refs/heads/main/1url.txt',
+    'https://raw.githubusercontent.com/wellbeenlee/PhotoVerse/refs/heads/main/2url.txt',
+    'https://raw.githubusercontent.com/wellbeenlee/PhotoVerse/refs/heads/main/3url.txt'
 ];
 
 // HTML template for the gallery
